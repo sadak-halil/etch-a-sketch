@@ -1,12 +1,12 @@
-.container {
+.canvas {
   display: grid;
-  grid-template-columns: repeat(16, 5vw);
-  grid-template-rows: repeat(16, 5vw);
+  grid-template-columns: repeat(16, 2vw);
+  grid-template-rows: repeat(16, 2vw);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
 
 .cell {
-  width: 5vw;
-  height: 5vw;
+  width: 2vw;
+  height: 2vw;
 }
