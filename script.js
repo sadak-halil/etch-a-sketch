@@ -1,8 +1,6 @@
 'use strict'
 const canvas = document.querySelector(".canvas");
-//TODO: 
-// 1. add the drawing eventlistener in the create canvas function
-// 2. when reset is clicked, clean the container div and re-create the canvas 
+
 
 //initial canvas size
 let canvasSize = 100;
